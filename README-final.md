@@ -10,11 +10,19 @@ SQLAlchemy ORM was used to create an engine to inspect "hawaii.sqlite". This fil
 # Analysis/Results
 Hawaii's rainy season is usually November to March; while the dry season is April to October. Does the data bear out these results?
 
-![precipitation_graph](http:///Images/precip_graph.PNG)
+![precipitation_graph](precip_graph.PNG)
 
 The dryest months appear to be August-December 2016; and April to June 2017
 
+Summary statistics are as follows:
+
+![stat_table](summary_stat.png)
+
+Hawaii's daily temperatures can be seen on this histogram:
+You can see that the temperature is usually in the 70-80's range.
+
+![histogram](temp_histogram.png)
 
 # Conclusions
-what's to be concluded
+The best time to plan a vacation to the Islands would be from the spring to the fall.
 
