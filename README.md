@@ -16,12 +16,12 @@ The dryest months appear to be August-December 2016; and April to June 2017
 
 Summary statistics are as follows:
 
-![stat_table](summary_stat.png)
+![stat_table](summary_stat.PNG)
 
 Hawaii's daily temperatures can be seen on this histogram:
 You can see that the temperature is usually in the 70-80's range.
 
-![histogram](temp_histogram.png)
+![histogram](temp_histogram.PNG)
 
 # Conclusions
 The best time to plan a vacation to the Islands would be from the spring to the fall.
